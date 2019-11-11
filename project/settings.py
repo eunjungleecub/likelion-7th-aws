@@ -26,7 +26,7 @@ SECRET_KEY = '=&x=j*-vtq*boy)*s9&8e$%$b%uri*i8lv8f86klca4ih0n^$u'
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'ec2-52-78-152-228.ap-northeast-2.compute.amazonaws.com'
+    'project.uzs7qeqvvj.ap-northeast-2.elasticbeanstalk.com',
     ]
 
 
